@@ -1,4 +1,4 @@
-Hello 👋...Currently building in stealth 👷
+Hi! Currently building in stealth...👷
 
 <!--
 **robPTY/robPTY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
